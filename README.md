@@ -90,3 +90,8 @@ I build ML systems and software tools. My work spans neural networks, time-serie
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aidenhongg&color=58A6FF&style=flat-square&label=Profile+Views" />
 </p>
+
+TODO:
+- make this page look less AI slopyy
+- AddMLP & AddLM 2 same repo & add pictures
+- Rename dookie name repos
