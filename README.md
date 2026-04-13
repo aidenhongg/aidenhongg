@@ -47,24 +47,24 @@ I build ML systems and software tools. My work spans neural networks, time-serie
   <tr>
     <td align="center" width="50%">
       <h4>🔍 Microservice Anomaly Detection</h4>
-      <p>9-model ensemble (statistical, tree-based, neural) forecasting order volumes at 30-min granularity with 101-fold rolling cross-validation. Hampel filtering, Fourier feature engineering, and GPU/CPU workload separation.</p>
+      <p>9-model ensemble (statistical, tree-based, neural) forecasting order volumes with 101-fold CV. Hampel filtering, Fourier engineering, GPU/CPU workload separation.</p>
       <a href="https://github.com/aidenhongg/ms-anomaly-detection"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td align="center" width="50%">
       <h4>⚡ MPCO Recreation</h4>
-      <p>Reproducing a 2026 paper on LLM code optimization. Benchmarks Gemini, GPT, and Claude across prompting strategies with Ragas-based significance and cognitive complexity scoring.</p>
+      <p>Reproducing SOTA papers on LLM coding. Benchmarks Gemini, GPT, and Claude with Ragas-based significance and cognitive complexity scoring.</p>
       <a href="https://github.com/aidenhongg/aiden-mpco"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h4>🔎 EPSearch — RAG Search Engine</h4>
-      <p>Retrieval-augmented search with vector retrieval, uncensored LLM inference, and client-side citation matching via in-browser ONNX embeddings. 5-layer security architecture.</p>
+      <p>Retrieval-augmented search with vector retrieval & client-side citation matching with in-browser ONNX embeddings. 5-layer security architecture.</p>
       <a href="https://github.com/aidenhongg/epsearch"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td align="center" width="50%">
       <h4>📈 Stock Candle Predictor</h4>
-      <p>Two-stage transformer pipeline — trend classifier (76.8% accuracy) and magnitude regressor — for minute-level futures prediction. Custom feature engineering with EWMA momentum and cyclical time encoding.</p>
+      <p>2-stage transformer pipeline: trend classifier (76.8% accuracy) & magnitude regressor. Custom feature engineering with EWMA momentum and cyclical time encoding.</p>
       <a href="https://github.com/aidenhongg/Candle-Predictor"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
