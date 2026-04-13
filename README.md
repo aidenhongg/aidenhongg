@@ -46,26 +46,26 @@ I build ML systems and software tools. My work spans neural networks, time-serie
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h4>🧠 Neural Network from Scratch</h4>
-      <p>Multilayer perceptron for handwritten digit recognition on 28x28 images. Built from the ground up to understand backpropagation and gradient descent.</p>
-      <a href="https://github.com/aidenhongg/first-neural-network"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <h4>🔍 Microservice Anomaly Detection</h4>
+      <p>9-model ensemble (statistical, tree-based, neural) forecasting order volumes at 30-min granularity with 101-fold rolling cross-validation. Hampel filtering, Fourier feature engineering, and GPU/CPU workload separation.</p>
+      <a href="https://github.com/aidenhongg/ms-anomaly-detection"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td align="center" width="50%">
-      <h4>📈 Stock Candle Predictor</h4>
-      <p>Predicts close prices on trending candles for minute-by-minute stock time-series data. Time-series analysis and feature engineering for financial ML.</p>
-      <a href="https://github.com/aidenhongg/Candle-Predictor"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <h4>⚡ MPCO Recreation</h4>
+      <p>Reproducing a 2026 paper on LLM code optimization. Benchmarks Gemini, GPT, and Claude across prompting strategies with Ragas-based significance and cognitive complexity scoring.</p>
+      <a href="https://github.com/aidenhongg/aiden-mpco"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h4>🔍 Microservice Anomaly Detection</h4>
-      <p>EDA and preliminary prototyping for detecting anomalies in microservice systems. Statistical methods, visualization, and feature exploration.</p>
-      <a href="https://github.com/aidenhongg/ms-anomaly-detection"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <h4>🔎 EPSearch — RAG Search Engine</h4>
+      <p>Retrieval-augmented search with vector retrieval, uncensored LLM inference, and client-side citation matching via in-browser ONNX embeddings. 5-layer security architecture.</p>
+      <a href="https://github.com/aidenhongg/epsearch"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td align="center" width="50%">
-      <h4>🛰️ NASA Image Puller</h4>
-      <p>Downloads relevant images from NASA's APOD database by date range and keyword query. API integration and automated data collection.</p>
-      <a href="https://github.com/aidenhongg/nasa-image-puller"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <h4>📈 Stock Candle Predictor</h4>
+      <p>Two-stage transformer pipeline — trend classifier (76.8% accuracy) and magnitude regressor — for minute-level futures prediction. Custom feature engineering with EWMA momentum and cyclical time encoding.</p>
+      <a href="https://github.com/aidenhongg/Candle-Predictor"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -75,3 +75,5 @@ I build ML systems and software tools. My work spans neural networks, time-serie
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aidenhongg&color=58A6FF&style=flat-square&label=Profile+Views" />
 </p>
+
+---
