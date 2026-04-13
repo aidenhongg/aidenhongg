@@ -72,19 +72,6 @@ I build ML systems and software tools. My work spans neural networks, time-serie
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aidenhongg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidenhongg&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidenhongg&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aidenhongg&color=58A6FF&style=flat-square&label=Profile+Views" />
 </p>
