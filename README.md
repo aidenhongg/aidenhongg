@@ -64,7 +64,7 @@ I build ML systems and software tools. My work spans neural networks, time-serie
     </td>
     <td align="center" width="50%">
       <h4>📈 Stock Candle Predictor</h4>
-      <p>2-stage transformer pipeline: trend classifier (76.8% accuracy) & magnitude regressor. Custom feature engineering with momentum & seasonality.</p>
+      <p>2-stage transformer pipeline: trend classifier & magnitude regressor. Custom feature engineering with momentum & seasonality.</p>
       <a href="https://github.com/aidenhongg/Candle-Predictor"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
