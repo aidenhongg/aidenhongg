@@ -13,12 +13,12 @@
 
 ### About Me
 
-I build ML systems and software tools. My work spans neural networks, time-series prediction, anomaly detection, and API integrations.
+I like understanding how things work under the hood before reaching for a framework — from hand-deriving backprop gradients to reproducing research papers from scratch.
 
-- 🧠 Built an MLP neural network from scratch for digit classification
-- 📈 Built a stock candle predictor using time-series analysis
-- 🔍 Prototyped microservice anomaly detection with EDA and statistical methods
-- 🚀 Always shipping ... currently exploring deep learning and LLM applications
+- 🔧 Most comfortable at the intersection of ML engineering and software systems
+- 🧪 Research interests: mechanistic interpretability, LLM evaluation, time-series forecasting
+- 📄 I read papers and build them — not just use the library
+- 🚀 Always shipping
 
 ---
 
