@@ -13,11 +13,11 @@
 
 ### About Me
 
-I like understanding how things work under the hood before reaching for a framework — from hand-deriving backprop gradients to reproducing research papers from scratch.
+I like understanding how things work under the hood before reaching for a framework, from hand-deriving backprop gradients to reproducing studies from scratch.
 
-- 🔧 Most comfortable at the intersection of ML engineering and software systems
+- 🔧 At the intersection of ML engineering and software systems
 - 🧪 Research interests: mechanistic interpretability, LLM evaluation, time-series forecasting
-- 📄 I read papers and build them — not just use the library
+- 📄 I read papers and build them - not just use the library
 - 🚀 Always shipping
 
 ---
@@ -58,7 +58,7 @@ I like understanding how things work under the hood before reaching for a framew
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h4>🔎 EPSearch — RAG Search Engine</h4>
+      <h4>🔎 Epsearch - RAG Search Engine</h4>
       <p>Retrieval-augmented search with vector retrieval & client-side citation matching with in-browser ONNX embeddings.</p>
       <a href="https://github.com/aidenhongg/epsearch"><img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
