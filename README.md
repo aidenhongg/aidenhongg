@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aiden 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML+%2F+AI+Engineer+%7C+Software+Developer;Neural+Networks+%E2%80%A2+Time+Series+%E2%80%A2+Anomaly+Detection;Building+intelligent+systems+with+Python" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML+%2F+AI+Engineer+%7C+Software+Developer;Neural+Networks+%E2%80%A2+Time+Series;Building+intelligent+systems" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
